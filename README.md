@@ -1,3 +1,6 @@
+ForkNote:  This version of Mattermost changes the MySQL Database engine to use MyISAM with utf8 charset to allow using MySQL versions where InnoDB doesnt have fulltext (e.g. version 5.5)
+
+
 # Mattermost
 
 Mattermost is an open source, on-prem Slack-alternative. 
